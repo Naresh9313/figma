@@ -1,0 +1,21 @@
+.homepage1{
+    background-image: url("../../../src/assests/images/river.jpg");
+}
+
+.top-banner1{
+    background-color: rgb(255, 127, 80);
+    text-align: center;
+    font-style: normal;
+    font-display: swap;
+    color: wheat;
+    font-weight: 500;
+
+}
+
+.hero-section1 {
+  padding-top: 120px;
+  padding-bottom: 180px;
+  font-style: normal;
+  color:black;
+}
+
